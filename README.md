@@ -19,7 +19,7 @@ Images are shown below.
     
     
 ### Plots
-![Elbow curve plots comparing the original data with the PCA data](Images/fig3.png)
+![Elbow curve plots comparing the original data with the PCA data.](Images/fig3.png)
 
 ![Scatter plot of 24 hours and 7 days features, colored by k-means cluster.](Images/fig5.png)
 
